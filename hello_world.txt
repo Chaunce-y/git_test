@@ -1,1 +1,2 @@
 adding some text to track changes
+adding another line to track changes made to global message editor configuration settings
